@@ -11,7 +11,7 @@
 #import "NewsInfo.h"
 #import "NewsViewCell.h"
 #import "AppDelegate.h"
-
+// Test
 @interface NewsViewController ()
 {
     NSMutableArray *newsMuArray;
